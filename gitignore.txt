@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS system files
+.DS_Store
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# VSCode and other IDEs
+.vscode/
+.idea/
+
+# Data & model artifacts (optional — adjust as needed)
+*.h5
+*.pkl
+*.hdf5
+*.ckpt
+
+# Test or temporary output
+*.log
+*.out
+*.tmp
